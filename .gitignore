@@ -1,0 +1,5 @@
+private/
+venv/
+.env
+*.ipynb
+__pycache__/

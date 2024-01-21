@@ -1,0 +1,1 @@
+ssh -i private/ssh-key.pem ubuntu@18.191.84.92
