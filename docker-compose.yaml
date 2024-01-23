@@ -1,0 +1,8 @@
+services:
+  minds-db:
+      image: mindsdb/mindsdb
+      ports: 
+        - 47334:47334
+        - 47335:47335
+      volumes: 
+        - ./mdb_storage:/root/mdb_storage
